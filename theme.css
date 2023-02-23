@@ -776,7 +776,7 @@ body.theme-dark {
     --text-on-accent: var(--color-white);
     --text-error: var(--color-magenta-910);
     --text-success: var(--color-green-920);
-    --text-selection: rgba(134, 169, 209, 0.15);
+    --text-selection: rgba(252, 67, 132, 0.43);
     --text-accent: var(--color-gray-20);
     --text-accent-hover: var(--color-white);
     --interactive-normal: var(--color-blacker);
